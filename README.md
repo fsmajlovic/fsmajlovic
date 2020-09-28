@@ -30,3 +30,18 @@
 
 <br />
 <br />
+
+
+[instagram]: https://www.instagram.com/smileloveeach.faruk
+[facebook]: https://www.facebook.com/faruk.smajlovic.5
+[java]: https://www.java.com/en/
+[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[html5]: https://en.wikipedia.org/wiki/HTML5
+[css3]: https://en.wikipedia.org/wiki/CSS
+[sql]: https://en.wikipedia.org/wiki/SQL
+[mysql]: https://www.mysql.com/
+[androidstudio]: https://developer.android.com/studio?hl=es
+[github]: https://github.com/
+[gmail]: https://mail.google.com/
+
