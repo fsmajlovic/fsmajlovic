@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="fsmajlovic | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][instagram]
+[<img align="left" alt="fsmajlovic | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][facebook]
 
 <br />
 
