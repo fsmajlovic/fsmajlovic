@@ -1,8 +1,5 @@
 ### Faruk Smajlović's github profile 👋
 
-<!--
-**fsmajlovic/fsmajlovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Student at Faculty of Electrical Engineering, Sarajevo!
 
 - 🔭 I’m currently on a third year of Bachelor studies!
