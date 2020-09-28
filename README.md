@@ -1,4 +1,4 @@
-### Faruk Smajlović's github profile 👋
+### Faruk Smajlović's Github Profile 👋
 
 ## I'm a Student at Faculty of Electrical Engineering, Sarajevo!
 
