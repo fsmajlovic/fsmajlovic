@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently at third year of Bachelor studies!
 - 🖥️ I'm studying Computer Science!
-- 🌱 I’m currently learning javascript, web development...
+- 🌱 I’m currently learning Javascript, Web Development...
 - [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]fsmajlovic2@etf.unsa.ba
 ### Connect with me:
 
