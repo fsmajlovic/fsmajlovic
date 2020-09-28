@@ -2,7 +2,7 @@
 
 ## I'm a Student at Faculty of Electrical Engineering, Sarajevo!
 
-- 🔭 I’m currently on a third year of Bachelor studies!
+- 🔭 I’m currently at third year of Bachelor studies!
 - 🖥️ I'm studying Computer Science!
 - 🌱 I’m currently learning javascript, web development...
 - [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]fsmajlovic2@etf.unsa.ba
