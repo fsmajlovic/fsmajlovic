@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" />][instagram]
+[<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://img.favpng.com/9/25/24/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" />][instagram]
 [<img align="left" alt="fsmajlovic | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][facebook]
 
 <br />
