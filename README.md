@@ -64,7 +64,7 @@
 [flutter]: https://flutter.dev/
 [firebase]: https://firebase.google.com/
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
-[linkedin]: linkedin.com/in/faruk-smajlovic-47a43b217
+[linkedin]: https://www.linkedin.com/in/faruk-smajlovic-47a43b217
 
 
 
