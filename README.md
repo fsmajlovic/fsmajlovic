@@ -9,6 +9,8 @@
 ### Connect with me:
 
 
+
+[<img align="left" alt="fsmajlovic | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" />][instagram]
 [<img align="left" alt="fsmajlovic | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][facebook]
 
@@ -62,5 +64,7 @@
 [flutter]: https://flutter.dev/
 [firebase]: https://firebase.google.com/
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+[linkedin]: linkedin.com/in/faruk-smajlovic-47a43b217
+
 
 
