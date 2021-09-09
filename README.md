@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="React" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" />][react]
+[<img align="left" alt="React" width="26px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />][react]
 [<img align="left" alt="ReactNative" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />][reactnative]
 [<img align="left" alt="Flutter" width="26px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />][flutter]
 [<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][cs]
