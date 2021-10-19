@@ -31,8 +31,6 @@
 [<img align="left" alt="Android studio" width="26px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />][androidstudio]
 [<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
 [<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][cs]
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][cpp]
-[<img align="left" alt="C" width="26px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />][c]
 [<img align="left" alt="Java" width="26px" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" />][java]
 [<img align="left" alt="Java" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />][dart]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -50,8 +48,6 @@
 [instagram]: https://www.instagram.com/_.fsmile._/
 [facebook]: https://www.facebook.com/faruk.smajlovic.5
 [java]: https://www.java.com/en/
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [css3]: https://en.wikipedia.org/wiki/CSS
 [javascript]: https://www.javascript.com/
