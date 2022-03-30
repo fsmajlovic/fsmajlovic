@@ -12,8 +12,6 @@
 
 [<img align="left" alt="fsmajlovic | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" />][instagram]
-[<img align="left" alt="fsmajlovic | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />][facebook]
-
 <br />
 
 ### Languages and Tools:
@@ -46,7 +44,6 @@
 
 
 [instagram]: https://www.instagram.com/_.fsmile._/
-[facebook]: https://www.facebook.com/faruk.smajlovic.5
 [java]: https://www.java.com/en/
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [css3]: https://en.wikipedia.org/wiki/CSS
