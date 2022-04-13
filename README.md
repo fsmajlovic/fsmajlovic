@@ -20,6 +20,7 @@
 [<img align="left" alt="ReactNative" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />][reactnative]
 [<img align="left" alt="Flutter" width="26px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />][flutter]
 [<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
+[<img align="left" alt="nodejs" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />][nodejs]
 [<img align="left" alt="dotnet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][dotnet]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -36,10 +37,10 @@
 <br />
 
 ## Clients I worked with:
-[<img align="left" alt="Javascript" width="125px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
-[<img align="left" alt="Javascript" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
-[<img align="left" alt="Javascript" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
-[<img align="left" alt="Javascript" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
+[<img align="left" alt="Bitclout" width="125px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
+[<img align="left" alt="Finance House Digital" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
+[<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
+[<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
 
 <br />
 <br />
@@ -55,6 +56,7 @@
 [androidstudio]: https://developer.android.com/studio?hl=es
 [github]: https://github.com/
 [gmail]: https://mail.google.com/
+[nodejs]: https://nodejs.org/en/
 [dotnet]: https://dotnet.microsoft.com/
 [react]: https://reactjs.org/
 [reactnative]: https://reactnative.dev/
@@ -69,5 +71,6 @@
 [fhdigital]: https://www.financehouse.ae/
 [dedalus]: https://www.dedalus.com/global/en/
 [theverygroup]: https://www.theverygroup.com/
+
 
 
