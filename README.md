@@ -5,7 +5,7 @@
 - 🔭 I’m currently at first year of Master's degree studies!
 - 🖥️ I'm studying Computer Science!
 - 🌱 I’m a Full-stack Developer at Codecta
-- [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]fsmajlovic2@etf.unsa.ba
+- [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]faruk.smajlovic99@gmail.com
 ### Connect with me:
 
 
