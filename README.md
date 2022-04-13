@@ -35,6 +35,14 @@
 [<img align="left" alt="Aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" />][aws]
 
 
+### Clients I worked with:
+[<img align="left" alt="Javascript" width="100px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
+[<img align="left" alt="Javascript" width="100px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
+[<img align="left" alt="Javascript" width="100px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
+[<img align="left" alt="Javascript" width="100px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
+
+
+
 
 
 
@@ -63,5 +71,9 @@
 [angular]: https://angular.io/
 [aws]: https://aws.amazon.com/
 [dart]: https://dart.dev/
+[bitclout]: https://bitclout.com/
+[fhdigital]: https://www.financehouse.ae/
+[dedalus]: https://www.dedalus.com/global/en/
+[theverygroup]: https://www.theverygroup.com/
 
 
