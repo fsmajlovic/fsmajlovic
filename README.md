@@ -21,7 +21,10 @@
 [<img align="left" alt="Finance House Digital" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
 [<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
 [<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
+<br />
 ### Languages and Tools:
+
+
 
 [<img align="left" alt="React" width="26px" src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" />][react]
 [<img align="left" alt="ReactNative" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />][reactnative]
