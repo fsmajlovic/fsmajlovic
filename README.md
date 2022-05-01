@@ -38,7 +38,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" />][aws]
 <br />
-<br></br>  \
+<br></br>   
 ### Clients I worked with:
 
 
