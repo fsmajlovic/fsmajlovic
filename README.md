@@ -6,6 +6,7 @@
 - 🖥️ I'm studying Computer Science!
 - 🌱 I’m a Full-stack Developer at Codecta
 - [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]faruk.smajlovic99@gmail.com
+- 
 ### Connect with me:
 
 
@@ -13,6 +14,7 @@
 [<img align="left" alt="fsmajlovic | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" />][instagram]
 <br />
+
 ### Clients I worked with:
 
 
@@ -22,6 +24,7 @@
 [<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
 [<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
 <br />
+
 ### Languages and Tools:
 
 
