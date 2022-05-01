@@ -15,16 +15,6 @@
 [<img align="left" alt="fsmajlovic | Instagram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" />][instagram]
 <br />
 
-### Clients I worked with:
-
-
-
-[<img align="left" alt="Bitclout" width="125px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
-[<img align="left" alt="Finance House Digital" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
-[<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
-[<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
-<br />
-<br></br>
 ### Languages and Tools:
 
 
@@ -48,7 +38,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" />][aws]
 <br />
+<br></br>  \
+### Clients I worked with:
 
+
+
+[<img align="left" alt="Bitclout" width="125px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
+[<img align="left" alt="Finance House Digital" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
+[<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
+[<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
+<br></br>
 
 
 
