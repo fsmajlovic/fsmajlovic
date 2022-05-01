@@ -5,7 +5,6 @@
 - 🔭 I’m currently at first year of Master's degree studies at the University of Sarajevo, Faculty of Electrical Engineering!
 - 🖥️ I'm studying Computer Science!
 - [<img align="left" alt="fsmajlovic | Gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png" />][gmail]faruk.smajlovic99@gmail.com
-- 
 ### Connect with me:
 
 
