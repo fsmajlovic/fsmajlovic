@@ -23,6 +23,7 @@
 [<img align="left" alt="nodejs" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />][nodejs]
 [<img align="left" alt="terraform" width="26px" height="26px" src="https://forum.huawei.com/enterprise/en/data/attachment/forum/202204/21/120858nak5g1epkzwq5gcs.png" />][terraform]
 [<img align="left" alt="jenkins" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />][jenkins]
+[<img align="left" alt="terraform" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />][typescript]
 [<img align="left" alt="Javascript" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
 [<img align="left" alt="Flutter" width="26px" height="26px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />][flutter]
 [<img align="left" alt="Flutter" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
@@ -77,6 +78,7 @@
 [theverygroup]: https://www.theverygroup.com/
 [terraform]: https://www.terraform.io/
 [jenkins]: https://www.jenkins.io/
+[typescript]: https://www.typescriptlang.org/
 
 
 
