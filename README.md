@@ -41,9 +41,9 @@
 
 
 [<img align="left" alt="Bitclout" width="200px" height="150px" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
-[<img align="left" alt="Finance House Digital" width="200px" height="150px" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
-[<img align="left" alt="Dedalus Healthcare" width="200px" height="150px" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
-[<img align="left" alt="The Very Group" width="200px" height="150px" src="https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1630060817798-DRIK68FMS1CAN1Q84MEG/Client+Logos+2021+%2811%29.png"/>][theverygroup]
+[<img align="left" alt="Finance House Digital" width="250px" height="150px" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
+[<img align="left" alt="Dedalus Healthcare" width="250px" height="150px" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
+[<img align="left" alt="The Very Group" width="250px" height="150px" src="https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1630060817798-DRIK68FMS1CAN1Q84MEG/Client+Logos+2021+%2811%29.png"/>][theverygroup]
 <br></br>
 
 
