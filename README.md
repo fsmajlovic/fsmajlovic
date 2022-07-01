@@ -28,13 +28,13 @@
 [<img align="left" alt="SQL" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Firebase" width="26px" height="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />][firebase]
 [<img align="left" alt="MySQL" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Android studio" width="26px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />][androidstudio]
-[<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
-[<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][cs]
-[<img align="left" alt="Java" width="26px" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" />][java]
-[<img align="left" alt="Java" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />][dart]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" />][aws]
+[<img align="left" alt="Android studio" width="26px" height="26px" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" />][androidstudio]
+[<img align="left" alt="Javascript" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
+[<img align="left" alt="C#" width="26px" height="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][cs]
+[<img align="left" alt="Java" width="26px" height="26px" src="https://logoeps.com/wp-content/uploads/2013/03/java-eps-vector-logo.png" />][java]
+[<img align="left" alt="Java" width="26px" height="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />][dart]
+[<img align="left" alt="GitHub" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Aws" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1200px-AWS_Simple_Icons_AWS_Cloud.svg.png" />][aws]
 <br></br>               
 ### Clients I worked with:
 
