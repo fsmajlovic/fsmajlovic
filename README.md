@@ -43,7 +43,7 @@
 [<img align="left" alt="Bitclout" width="125px" height="auto" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
 [<img align="left" alt="Finance House Digital" width="125px" height="auto" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
 [<img align="left" alt="Dedalus Healthcare" width="125px" height="auto" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
-[<img align="left" alt="The Very Group" width="125px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Very-Group-Logo-2.svg/1200px-Very-Group-Logo-2.svg.png"/>][theverygroup]
+[<img align="left" alt="The Very Group" width="125px" height="auto" src="https://www.transunion.co.uk/resources/tu-uk/img/industry/thumbnails/I-retail-verygroup-Thumbnail.jpg"/>][theverygroup]
 <br></br>
 
 
