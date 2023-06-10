@@ -43,7 +43,6 @@
 
 
 
-[<img align="left" alt="Bitclout" width="125px" height="100px" src="https://cdn.filestackcontent.com/7hN7FwO8Si6DETNagLbH"/>][bitclout]
 [<img align="left" alt="Finance House Digital" width="175px" height="100px" src="https://www.fhs.ae/wp-content/uploads/2016/10/logoforopengraph.jpg"/>][fhdigital]
 [<img align="left" alt="Dedalus Healthcare" width="150px" height="100px" src="https://www.hospihub.com/sites/default/files/actualitee-2019-05/dedalus.png"/>][dedalus]
 [<img align="left" alt="The Very Group" width="150px" height="100px" src="https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1630060817798-DRIK68FMS1CAN1Q84MEG/Client+Logos+2021+%2811%29.png"/>][theverygroup]
@@ -72,7 +71,6 @@
 [angular]: https://angular.io/
 [aws]: https://aws.amazon.com/
 [dart]: https://dart.dev/
-[bitclout]: https://bitclout.com/
 [fhdigital]: https://www.financehouse.ae/
 [dedalus]: https://www.dedalus.com/global/en/
 [theverygroup]: https://www.theverygroup.com/
